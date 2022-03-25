@@ -16,11 +16,10 @@ Backend: Node.js, Express, SQL, sqlite3, knex
 
 Additional Skills: , Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class Facilitation, Team Leadership & Development, Project Management, Architecture, Debugging, Deployment, Network Operations, Object Oriented Programming(OOP)
 
-[![Brandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandib222)](https://github.com/brandib222/github-readme-stats)
 
-![Brandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandib222&show_icons=true&theme=radical)
+![Brandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandib222&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandib222)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandib222)](https://github.com/brandib222/github-readme-stats)
 
 
 
