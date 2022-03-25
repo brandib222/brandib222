@@ -14,7 +14,7 @@ Frontend: React.js, Redux, Hooks, JavaScript, HTML, CSS, Jest, Axios, Context AP
 
 Backend: Node.js, Express, SQL, sqlite3, knex
 
-Additional Skills: , Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class Facilitation, Team Leadership & Development, Project Management, Architecture, Debugging, Deployment, Network Operations, Object Oriented Programming(OOP)
+Additional Skills: Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class Facilitation, Team Leadership & Development, Project Management, Architecture, Debugging, Deployment, Network Operations, Object Oriented Programming(OOP)
 
 
 ![Brandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandib222&show_icons=true&theme=dracula)
