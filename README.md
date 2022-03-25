@@ -19,7 +19,7 @@ Additional Skills: , Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class
 
 ![Brandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandib222&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandib222)](https://github.com/brandib222/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brandib222&langs_count=5&theme=tokyonight)]()
 
 
 
