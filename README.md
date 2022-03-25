@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Brandi!
 
 I'm a student at BloomTech, looking to start my career as a frontend or fullstack developer!
 
