@@ -10,6 +10,7 @@ I'm a student at BloomTech, looking to start my career as a frontend or fullstac
 - ⚡ Fun fact: **I love to travel!**
 
 🚀 Technical Skills
+
 Frontend: React.js, Redux, Hooks, JavaScript, HTML, CSS, Jest, Axios, Context API, Cypress, Yup
 
 Backend: Node.js, Express, SQL, sqlite3, knex
