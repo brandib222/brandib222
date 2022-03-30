@@ -22,8 +22,6 @@ Additional Skills: Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class F
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brandib222&langs_count=5&theme=tokyonight)]()
 
 
-
-
 <!--
 **brandib222/brandib222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
